@@ -40,3 +40,5 @@ localizado na raiz do projeto
 
 * Foi realizado um total de 300 chamadas por 60s com 2 Threads
 * Resulatado da analise: O servidor apresentou 20% de erro sendo o tempo medio de 134ms e throuput de 5/s. Uma carga acima da capacidade dos servidores
+* ![img.png](img.png)
+* ![img_1.png](img_1.png)
